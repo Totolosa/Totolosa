@@ -1,11 +1,13 @@
 ## Who I am
 
 👋 Hello there, I'm Thomas, and welcome to my GitHub bio.
+
 💼 Initially plasturgist engineer, I reconverted in programming in 2020 via 42 school.
+
 💻 Interested in both back and frontend, I worked on:
 
-# Skills
-![This is an image](./img/vuejs_logo.svg)
+### Skills
+![This is an image](./img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
 
         
 ## Contact
