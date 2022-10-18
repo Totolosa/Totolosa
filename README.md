@@ -7,7 +7,8 @@
 💻 Interested in both back and frontend, I worked on:
 
 ### Skills
-![This is an image](./img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
+![img_vuejs](/img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
+![img_ts](/img/ts_logo.svg)(https://www.typescriptlang.org/)
 
         
 ## Contact
