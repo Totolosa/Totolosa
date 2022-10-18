@@ -7,9 +7,14 @@
 💻 Interested in both back and frontend, I worked on:
 
 ### Skills
-![img_vuejs](/img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
-![img_ts](/img/ts_logo.svg)(https://www.typescriptlang.org/)
-
+<!-- <img src="/img/vuejs_logo.svg" alt="Vuejs logo" width="200"/> -->
+<!-- ![img_vuejs](/img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
+![img_ts](/img/ts_logo.svg)(https://www.typescriptlang.org/) -->
+<div align="left">
+    <a href="https://vuejs.org/guide/introduction.html" target="_blank">
+        <img src="./img/vuejs_logo.svg" width="36" height="36" alt="Javascript" />
+    </a>
+</div>
         
 ## Contact
 
