@@ -4,33 +4,38 @@
 
 💼 Initially plasturgist engineer, I reconverted in programming in 2020 via 42 school.
 
-💻 Interested in both back and frontend, I worked on:
+💻 Fullstack oriented
 
-### Skills
-<!-- <img src="/img/vuejs_logo.svg" alt="Vuejs logo" width="200"/> -->
-<!-- ![img_vuejs](/img/vuejs_logo.svg)(https://vuejs.org/guide/introduction.html)
-![img_ts](/img/ts_logo.svg)(https://www.typescriptlang.org/) -->
+🇫🇷 Based in Lyon, France
+
+❤️ Numeric at home, sport and nature outside
+
+✉️ Find me on my bike or at [thomas.dayde@gmail.com](mailto:thomas.dayde@gmail.com).
+
+## Skills
+
 <div align="left">
     <a href="https://vuejs.org/guide/introduction.html" target="_blank">
-        <img src="./img/vuejs_logo.svg" width="36" height="36" alt="Javascript" />
+        <img src="./img/vuejs_logo.svg" width="36" height="36" alt="VueJS logo" />
+    </a>
+    <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+        <img src="./img/js_logo.svg" width="36" height="36" alt="Javascript logo" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="./img/ts_logo.svg" width="36" height="36" alt="Typescript logo" />
+    </a>
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="./img/nestjs_logo.svg" width="36" height="36" alt="NestJS logo" />
     </a>
 </div>
         
-## Contact
+## Social
 
-
-
-<!--
-**Totolosa/Totolosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+    <a href="https://www.linkedin.com/in/thomas--dayde/" target="_blank">
+        <img src="./img/linkedin_logo.svg" width="36" height="36" alt="Linkedin link" />
+    </a>
+    <a href="https://github.com/Totolosa/Totolosa" target="_blank">
+        <img src="./img/github_logo.svg" width="36" height="36" alt="Github link" />
+    </a>
+</div>
