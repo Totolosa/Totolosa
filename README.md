@@ -36,6 +36,7 @@
         <img src="./img/linkedin_logo.svg" width="36" height="36" alt="Linkedin link" />
     </a>
     <a href="https://github.com/Totolosa/Totolosa" target="_blank">
-        <img src="./img/github_logo.svg" width="36" height="36" alt="Github link" />
+        <source srcset="./img/github_logo_dark.svg" media="(prefers-color-scheme: dark)" width="36" height="36" alt="Github link">
+        <img src="./img/github_logo_light.svg" width="36" height="36" alt="Github link" />
     </a>
 </div>
