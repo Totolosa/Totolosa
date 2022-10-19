@@ -49,7 +49,12 @@
         <img src="./img/docker_logo.svg" width="36" height="36" alt="Docker logo" />
     </a>
 </div>
-        
+
+
+## Stats
+
+![Totolosa Stats](https://github-readme-stats.vercel.app/api?username=Totolosa)
+
 ## Social
 
 <div align="left">
@@ -57,3 +62,13 @@
         <img src="./img/linkedin_logo.svg" width="36" height="36" alt="Linkedin link" />
     </a>
 </div>
+
+## Daily routine
+
+```mermaid
+    graph TD;
+            Code --> Eat;
+            Eat-->Sport;
+            Sport-->Sleep;
+            Sleep-->Code;
+```
